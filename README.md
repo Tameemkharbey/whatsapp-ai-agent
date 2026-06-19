@@ -1,4 +1,4 @@
-# BarakatPay WhatsApp AI Agent
+# WhatsApp AI Agent
 
 A production-grade WhatsApp customer support agent for Afghan banking customers. Supports both **Dari (Afghan Persian)** and **Pashto** — via text or voice messages — deployed serverlessly on [Modal](https://modal.com).
 

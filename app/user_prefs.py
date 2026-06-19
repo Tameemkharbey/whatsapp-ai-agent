@@ -1,6 +1,6 @@
 import modal
 
-_store = modal.Dict.from_name("barakatpay-user-prefs", create_if_missing=True)
+_store = modal.Dict.from_name("whatsapp-ai-agent-user-prefs", create_if_missing=True)
 
 
 async def get_pref(phone: str) -> dict:

@@ -3,7 +3,7 @@ from app.modal_client import transcribe_audio, synthesize_speech, ask_llm
 from app.user_prefs import get_pref, set_pref
 
 LANG_PROMPT = (
-    "سلام! خوش آمدید به باراکت‌پی.\n"
+    "سلام! خوش آمدید.\n"
     "لطفاً زبان خود را انتخاب کنید:\n"
     "1 - دری\n"
     "2 - پښتو"

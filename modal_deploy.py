@@ -15,7 +15,7 @@ image = (
     .add_local_dir("app", remote_path="/root/app")
 )
 
-app = modal.App("barakatpay-whatsapp-agent")
+app = modal.App("whatsapp-ai-agent")
 
 
 @app.function(
